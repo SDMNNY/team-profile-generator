@@ -136,7 +136,7 @@ const addEmployee = () => {
         </head>
         <body class="bg-dark">
           <header>
-            <div class="jumbotron jumbotron-fluid bg-danger text-white">
+            <div class="jumbotron jumbotron-fluid bg-success text-white">
               <div class="container">
                 <h1 class="display-4 text-center">My Team!</h1>
                 <p class="lead text-center">
